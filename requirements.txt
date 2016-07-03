@@ -1,0 +1,9 @@
+Django
+pytz
+psycopg2
+pillow
+django-extensions
+django-model-utils
+django-countries
+djangorestframework
+djangorestframework-camel-case

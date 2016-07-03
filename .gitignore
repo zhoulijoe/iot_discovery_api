@@ -1,0 +1,13 @@
+# osx
+.DS_Store
+
+# Intellij
+.idea/
+*.iml
+
+# python
+*.pyc
+.python-version
+
+# django
+/static/
